@@ -1,9 +1,9 @@
 {
-    "name": "alvin883_react-hooks",
+    "name": "use-common-hooks",
     "version": "0.0.1",
     "description": "A library for common use Hooks code in React js",
     "main": "index.js",
-    "repository": "https://github.com/alvin883/react-hooks",
+    "repository": "https://github.com/alvin883/use-common-hooks",
     "author": "Alvin Novian <alvinnovian883@gmail.com>",
     "license": "MIT",
     "peerDependencies": {
