@@ -1,0 +1,13 @@
+{
+    "tabWidth": 4,
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": {
+                "singleQuote": true,
+                "tabWidth": 2,
+                "trailingComma": "all"
+            }
+        }
+    ]
+}
